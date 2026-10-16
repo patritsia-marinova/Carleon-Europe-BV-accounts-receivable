@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-During Semester 2 of my ICT & Business studies at Fontys University of Applied Sciences, I worked on a group project for Carleon Europe BV to improve its Accounts Receivable process through business analysis, data analytics, and automation.
+During Semester 3 of my ICT & Business studies at Fontys University of Applied Sciences, I worked on a group project for Carleon Europe BV to improve its Accounts Receivable process through business analysis, data analytics, and automation.
 
 The organisation relied heavily on manual invoice tracking, Excel exports, and communication between departments to monitor outstanding payments. This made it difficult to identify overdue invoices, prioritise customer follow-ups, and maintain an accurate overview of financial performance.
 
