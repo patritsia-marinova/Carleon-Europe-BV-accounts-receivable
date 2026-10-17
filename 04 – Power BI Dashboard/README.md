@@ -46,6 +46,22 @@ These adjustments were made to the dashboard I had already developed, keeping th
 
 The PDF represents the final team deliverable presented to the client.
 
+### 3. [Power BI Dashboard Documentation & Findings](https://github.com/patritsia-marinova/Carleon-Europe-BV-accounts-receivable/blob/main/04%20%E2%80%93%20Power%20BI%20Dashboard/Power%20Bi%20Documentation.pdf)
+
+This document provides a detailed explanation of the dashboard's development, KPI logic, design decisions, and analytical findings.
+
+It describes how the CFO and KCC dashboards were improved through multiple iterations and feedback sessions to better address the different needs of both departments.
+
+The documentation covers:
+
+- **CFO Dashboard:** Financial KPIs, DSO calculations, overdue trends, and strategic financial monitoring.
+- **KCC Dashboard:** Customer prioritisation, overdue severity, invoice tracking, and operational collections management.
+- **KPI and Data Improvements:** Adjustments to calculations, data sources, and reporting logic to improve consistency and accuracy.
+- **Visualisation Decisions:** Explanations of why certain charts, reporting periods, and dashboard layouts were selected or changed.
+- **Analytical Findings:** Insights into overdue receivables, customer payment behaviour, and potential data quality issues.
+
+The document provides additional context behind the technical and business decisions made throughout the dashboard development process.
+
 ## Outcome
 
 The completed Power BI dashboard provided a Business Intelligence solution for monitoring financial performance and prioritising overdue customer accounts.
