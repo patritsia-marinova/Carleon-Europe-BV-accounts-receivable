@@ -8,9 +8,13 @@ After completing the business analysis, process improvements, data validation, a
 
 ## Implementation Activities
 
-### 1. Power Automate
+### 1. [Power Automate](https://github.com/patritsia-marinova/Carleon-Europe-BV-accounts-receivable/blob/main/05%20%E2%80%93%20Implementation%20%26%20Automation/Carleon%20BV%20Power%20Automate%20Flow.jpeg)
 
-We designed and tested a scheduled Power Automate workflow that evaluates KPI results and sends email notifications when predefined conditions are met.
+We designed and tested a scheduled Power Automate workflow that retrieves KPI information from the Power BI dataset and sends automated email notifications when predefined conditions are met.
+
+The workflow uses a scheduled trigger, queries the dataset, processes the results, and evaluates whether an email notification should be sent.
+
+The screenshot demonstrates a successful execution of the workflow, including the automated email action.
 
 This demonstrated how automated monitoring could reduce manual checking and help departments respond more efficiently to overdue payments.
 
