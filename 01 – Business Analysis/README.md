@@ -22,4 +22,6 @@ We analysed the influence and interests of key stakeholders, including the CFO, 
 
 ## Outcome
 
-This analysis highlighted opportunities to improve payment monitoring, communication, and financial visibility. Our findings guided the development of the **SOLL process, GAP analysis, and requirements** in the next project phase.
+Our analysis revealed that the Accounts Receivable process relied heavily on manual Excel tracking, making it difficult to maintain an up-to-date overview of outstanding invoices. Delayed communication between Finance and Customer Service also slowed down payment follow-ups, while the lack of clear prioritisation made it harder to identify which overdue accounts required immediate attention.
+
+These findings highlighted the need for centralised financial reporting, improved information sharing, and more efficient payment monitoring. They formed the foundation for the SOLL process, GAP analysis, and requirements developed in the next project phase.
